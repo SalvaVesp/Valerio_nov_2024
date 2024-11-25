@@ -1,0 +1,5 @@
+# Ignoro los ficheros de Photosop
+*.xsd
+
+# Ignoro la carpeta top_secret
+top_secret/
